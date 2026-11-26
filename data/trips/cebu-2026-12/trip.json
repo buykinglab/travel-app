@@ -1,0 +1,379 @@
+{
+ "schema": 1,
+ "id": "cebu-2026-12",
+ "name": "세부 다이빙",
+ "region": "필리핀 세부 · 막탄 마리바고",
+ "start": "2026-12-01",
+ "end": "2026-12-06",
+ "airport": "CEB",
+ "resort": {
+  "name": "씨홀스 다이브 (Seahorse Dive Resort)",
+  "area": "Buyong Beach, Maribago, Lapu-Lapu, Cebu 6015",
+  "ll": [
+   10.2872,
+   124.0022
+  ],
+  "maps": "https://maps.google.com/?q=10.2872,124.0022",
+  "checkin": "14:00",
+  "checkout": "11:00",
+  "note": "한국인 다이버 후기가 많은 PADI 센터. 공항에서 차 25분, 부코 사우사이드·7107 등이 도보·차 5분 거리."
+ },
+ "flights": {
+  "out": {
+   "date": "2026-12-01",
+   "code": "5J 131",
+   "airline": "세부퍼시픽 (Cebu Pacific)",
+   "from": "ICN",
+   "to": "CEB",
+   "dep": "",
+   "arr": "",
+   "pnr": "",
+   "note": "출발·도착 시각과 예약번호는 예약 확인서에서. 예약번호는 앱 설정에 이 기기로만 저장하세요."
+  },
+  "back": {
+   "date": "2026-12-06",
+   "code": "5J 130",
+   "airline": "세부퍼시픽 (Cebu Pacific)",
+   "from": "CEB",
+   "to": "ICN",
+   "dep": "",
+   "arr": "",
+   "pnr": "",
+   "note": "세부 출발 시각은 현지 시각(한국보다 1시간 느림)."
+  }
+ },
+ "companions": "",
+ "notes": "숙소는 씨홀스 다이브(마리바고). 12월은 비가 잦은 달 — 오후 소나기 대비. 일몰 17:20, 일출 05:45.",
+ "days": [
+  {
+   "date": "2026-12-01",
+   "title": "도착 · 장비 세팅",
+   "items": [
+    {
+     "time": "06:00",
+     "type": "이동",
+     "title": "인천공항 도착 (출발 3시간 전)",
+     "place": "",
+     "note": ""
+    },
+    {
+     "time": "",
+     "type": "이동",
+     "title": "5J 131 인천 → 세부",
+     "place": "",
+     "note": "시각은 예약 확인서 확인"
+    },
+    {
+     "time": "",
+     "type": "이동",
+     "title": "막탄 세부 공항 → 리조트 (차 25분)",
+     "place": "씨홀스 다이브",
+     "note": ""
+    },
+    {
+     "time": "15:00",
+     "type": "숙소",
+     "title": "체크인 · 장비 피팅",
+     "place": "씨홀스 다이브",
+     "note": "렌탈 사이즈 미리 전달"
+    },
+    {
+     "time": "17:00",
+     "type": "휴식",
+     "title": "일몰 (17:20) 보며 정리",
+     "place": "",
+     "note": ""
+    },
+    {
+     "time": "18:30",
+     "type": "맛집",
+     "title": "저녁 — 푸드파크",
+     "place": "Mercato de Mactan Food Park",
+     "note": "화요일 영업 (월 휴무)"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-02",
+   "title": "다이빙 1일차",
+   "items": [
+    {
+     "time": "07:00",
+     "type": "맛집",
+     "title": "아침 — 한식",
+     "place": "MIR 미르식당",
+     "note": "07:30 오픈이면 07:40으로"
+    },
+    {
+     "time": "08:30",
+     "type": "다이빙",
+     "title": "오전 보트 다이빙 2회",
+     "place": "",
+     "note": "첫날은 리프레셔·장비 점검"
+    },
+    {
+     "time": "13:00",
+     "type": "맛집",
+     "title": "늦은 점심",
+     "place": "Maribago Grill",
+     "note": ""
+    },
+    {
+     "time": "15:00",
+     "type": "휴식",
+     "title": "숙소 낮잠·장비 헹굼",
+     "place": "",
+     "note": ""
+    },
+    {
+     "time": "18:30",
+     "type": "맛집",
+     "title": "저녁 — 필리핀 요리",
+     "place": "7107 Restaurant",
+     "note": "21:00 마감"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-03",
+   "title": "다이빙 2일차",
+   "items": [
+    {
+     "time": "07:30",
+     "type": "맛집",
+     "title": "아침",
+     "place": "MIR 미르식당",
+     "note": ""
+    },
+    {
+     "time": "08:30",
+     "type": "다이빙",
+     "title": "오전 다이빙 2회",
+     "place": "",
+     "note": ""
+    },
+    {
+     "time": "14:00",
+     "type": "카페",
+     "title": "오후 커피",
+     "place": "Cafe Point Roasters Cafe",
+     "note": ""
+    },
+    {
+     "time": "18:30",
+     "type": "맛집",
+     "title": "저녁 — 그릴",
+     "place": "Gold Mango Grill & Restaurant",
+     "note": ""
+    },
+    {
+     "time": "21:00",
+     "type": "마사지",
+     "title": "어깨·허리 풀기",
+     "place": "Gold Moon SPA",
+     "note": "24시까지"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "title": "다이빙 3일차 · 쇼핑",
+   "items": [
+    {
+     "time": "07:30",
+     "type": "맛집",
+     "title": "아침",
+     "place": "MIR 미르식당",
+     "note": ""
+    },
+    {
+     "time": "08:30",
+     "type": "다이빙",
+     "title": "오전 다이빙 2회",
+     "place": "",
+     "note": ""
+    },
+    {
+     "time": "13:30",
+     "type": "맛집",
+     "title": "점심 — 현지식",
+     "place": "Labuyo Native Restaurant",
+     "note": ""
+    },
+    {
+     "time": "15:30",
+     "type": "쇼핑",
+     "title": "대형몰 (차 21분)",
+     "place": "Island Central Mactan",
+     "note": "수영용품·식당 한 번에"
+    },
+    {
+     "time": "18:00",
+     "type": "맛집",
+     "title": "선셋 저녁 (17시 전 앉기)",
+     "place": "Buko Seaside Bar & Restaurant",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-12-05",
+   "title": "다이빙 마지막 날",
+   "items": [
+    {
+     "time": "08:00",
+     "type": "다이빙",
+     "title": "오전 다이빙 2회",
+     "place": "",
+     "note": "내일 비행 — 오늘 오전까지만 깊은 물"
+    },
+    {
+     "time": "13:30",
+     "type": "맛집",
+     "title": "점심",
+     "place": "Maribago Grill",
+     "note": ""
+    },
+    {
+     "time": "15:00",
+     "type": "카페",
+     "title": "커피·정리",
+     "place": "Cafe Soom",
+     "note": "24시까지"
+    },
+    {
+     "time": "17:30",
+     "type": "쇼핑",
+     "title": "기념품",
+     "place": "Mango Bongbong Souvenir",
+     "note": "23시까지"
+    },
+    {
+     "time": "19:30",
+     "type": "맛집",
+     "title": "마지막 날 기념 저녁",
+     "place": "The Crab Seafood & Grill",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-12-06",
+   "title": "귀국",
+   "items": [
+    {
+     "time": "",
+     "type": "휴식",
+     "title": "마지막 다이빙 없음",
+     "place": "",
+     "note": "비행 24시간 전 규칙 — 오전 다이빙 금지"
+    },
+    {
+     "time": "09:00",
+     "type": "숙소",
+     "title": "체크아웃 (11시)",
+     "place": "씨홀스 다이브",
+     "note": ""
+    },
+    {
+     "time": "09:30",
+     "type": "쇼핑",
+     "title": "생수·기념품 마무리",
+     "place": "Savemore Market Maribago",
+     "note": ""
+    },
+    {
+     "time": "",
+     "type": "이동",
+     "title": "리조트 → 공항 (차 25분)",
+     "place": "",
+     "note": "출발 3시간 전 도착"
+    },
+    {
+     "time": "",
+     "type": "이동",
+     "title": "5J 130 세부 → 인천",
+     "place": "",
+     "note": "시각은 예약 확인서 확인"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "12월 세부는 비가 많은 달(평년 비 온 날 19일) — 오후 소나기와 너울 파도를 예상하고 오전 다이빙 위주로.",
+  "바닷물 27.5~28.4도. 래시가드·다이브 스킨 + 2mm 숏수트 조합이 편하다 (하루 2~3회 입수하면 체온이 떨어진다).",
+  "일출 05:45, 일몰 17:20 — 저녁 약속은 17시 전후로 잡으면 선셋을 본다.",
+  "cafecaptain은 일요일 휴무 — 12/6(일)에는 가지 말 것.",
+  "필리핀 콘센트는 A/B형 — 한국 둥근 플러그가 안 들어가는 곳이 있어 멀티 어댑터 필수.",
+  "환전은 리조트 프런트에 먼저 물어보고, 안 되면 마리바고 환전소(차 4분).",
+  "로밍 또는 필리핀 eSIM 미리 준비. 공항에서 Globe/Smart 유심 구매도 가능.",
+  "귀국편이 12/6이면 마지막 다이빙은 12/5 오전에 끝내야 안전하다 (24시간 규칙)."
+ ],
+ "sos": {
+  "verified": "2026-11-26",
+  "tips": [
+   "100% 산소 공급 → 보험사(Robin Assist) 긴급 연락 → 가까운 챔버로 이송",
+   "다이빙을 즉시 중단하고 눕힌다. 의식이 또렷하지 않으면 물을 먹이지 않는다",
+   "다이브 센터에도 사고를 알린다 (보험 약관 요구사항)"
+  ],
+  "chamber": [
+   {
+    "name": "PCSSD Hyperbaric Chamber Facility (세부 유일 재가압 챔버)",
+    "city": "Mandaue City",
+    "phone": "+63 928 242 6237",
+    "address": "TIEZA Building, P. Burgos St. cor A. Soriano Ave, Brgy. Centro, Mandaue City",
+    "note": "마리바고에서 차 40~50분. 24시간. 1회 치료 약 ₱38,000 수준"
+   },
+   {
+    "name": "Cebu Doctors' University Hospital — Center for Hyperbaric Medicine",
+    "city": "Cebu City",
+    "phone": "+63 32 253 7511",
+    "address": "Osmeña Blvd, Cebu City",
+    "note": "병원 내 챔버 (교대 185번)"
+   }
+  ],
+  "hospital": [
+   {
+    "name": "Mactan Doctors' Hospital",
+    "phone": "",
+    "address": "Lapu-Lapu City (막탄)",
+    "note": "숙소에서 가장 가까운 응급실"
+   },
+   {
+    "name": "ARC Hospital",
+    "phone": "",
+    "address": "Lapu-Lapu City",
+    "note": "막탄 대안 응급실"
+   }
+  ],
+  "embassy": [
+   {
+    "name": "주세부 대한민국 분관",
+    "phone": "+63 32 231 1516",
+    "address": "Cebu City",
+    "note": "근무시간 외 긴급 +63 917 808 3907"
+   },
+   {
+    "name": "주필리핀 대한민국 대사관 (마닐라)",
+    "phone": "+63 2 8856 9210",
+    "address": "122 Upper McKinley Rd, Taguig City",
+    "note": "24시간 긴급 +63 917 817 5703 · 영사콜센터 +82 2 3210 0404"
+   }
+  ],
+  "local": [
+   {
+    "name": "필리핀 통합 긴급 (경찰·구급·소방)",
+    "phone": "911"
+   },
+   {
+    "name": "필리핀 경찰 (PNP)",
+    "phone": "117"
+   },
+   {
+    "name": "영사콜센터 (24시간, 한국)",
+    "phone": "+82 2 3210 0404"
+   }
+  ]
+ },
+ "updated": "2026-11-26"
+}

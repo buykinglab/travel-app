@@ -1,0 +1,653 @@
+{
+ "schema": 1,
+ "trip": "cebu-2026-12",
+ "updated": "2026-11-26",
+ "home": {
+  "name": "씨홀스 다이브",
+  "ll": [
+   10.2872,
+   124.0022
+  ]
+ },
+ "places": [
+  {
+   "id": "buko-seaside",
+   "name": "Buko Seaside Bar & Restaurant",
+   "category": "맛집",
+   "area": "Maribago",
+   "rating": 4.8,
+   "reviews": 3061,
+   "hours": "11:00–22:00",
+   "price": "보통",
+   "dist": {
+    "min": 8,
+    "km": 1.7,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=10261134558490432916",
+   "address": "Kontiki Datag, Maribago",
+   "why": "바다 바로 앞 테이블. 12월 일몰이 17:20이라 17시 전에 앉으면 선셋 자리. 해산물·필리핀 요리와 맥주.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "선셋",
+    "해산물"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "7107",
+   "name": "7107 Restaurant",
+   "category": "맛집",
+   "area": "Maribago",
+   "rating": 4.9,
+   "reviews": 5124,
+   "hours": "11:00–21:00",
+   "price": "보통",
+   "dist": {
+    "min": 4,
+    "km": 1.2,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=6353263034578126600",
+   "address": "Maribago, Lapu-Lapu",
+   "why": "리뷰 5천 개가 넘는 마리바고 대표 필리핀 요리집. 21시 마감이라 다이빙 끝나고 19시 전후로.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "필리핀요리",
+    "대표"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "gold-mango",
+   "name": "Gold Mango Grill & Restaurant",
+   "category": "맛집",
+   "area": "Maribago",
+   "rating": 4.6,
+   "reviews": 2984,
+   "hours": "11:00–22:00",
+   "price": "보통",
+   "dist": {
+    "min": 3,
+    "km": 0.8,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=1059706312295605133",
+   "address": "M.L. Quezon Hwy, Maribago",
+   "why": "M.L. Quezon 하이웨이. 그릴 해산물과 필리핀 정찬, 테이블이 넓어 여럿이 가도 편하다.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "그릴",
+    "단체"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "chonnom",
+   "name": "Chonnom Korean Restaurant (촌놈)",
+   "category": "맛집",
+   "area": "Maribago",
+   "rating": 4.9,
+   "reviews": 919,
+   "hours": "12:00–01:00",
+   "price": "보통",
+   "dist": {
+    "min": 3,
+    "km": 0.8,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=14306654453647716050",
+   "address": "Bagumbayan 1, Maribago",
+   "why": "한식. 새벽 1시까지 해서 다이빙 후 늦은 저녁이나 술자리에 맞다.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "한식",
+    "늦게까지"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "crab-seafood",
+   "name": "The Crab Seafood & Grill",
+   "category": "맛집",
+   "area": "Maribago",
+   "rating": 4.6,
+   "reviews": 519,
+   "hours": "11:00–22:00",
+   "price": "높음",
+   "dist": {
+    "min": 5,
+    "km": 1.3,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=5757552554106262314",
+   "address": "Agus Gamay, Maribago",
+   "why": "게·해산물 전문. 가격대가 '높음'이라 마지막 날 기념 저녁처럼 한 번 쓸 곳.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "게",
+    "기념일"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "labuyo",
+   "name": "Labuyo Native Restaurant",
+   "category": "맛집",
+   "area": "Maribago",
+   "rating": 4.4,
+   "reviews": 1125,
+   "hours": "10:30–21:00",
+   "price": "보통",
+   "dist": {
+    "min": 3,
+    "km": 0.6,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=12645619507384427716",
+   "address": "M.L. Quezon Hwy, Maribago",
+   "why": "현지식(필리핀 전통) 요리. 실내 테이블이라 비 오는 점심에 무난하다.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "현지식",
+    "실내"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "maribago-grill",
+   "name": "Maribago Grill",
+   "category": "맛집",
+   "area": "Maribago",
+   "rating": 4.5,
+   "reviews": 532,
+   "hours": "10:00–22:00",
+   "price": "보통",
+   "dist": {
+    "min": 2,
+    "km": 0.5,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=14124768768645461093",
+   "address": "Maribago, Lapu-Lapu",
+   "why": "정원형 그릴 레스토랑. 다이빙 끝난 오후 2~3시 늦은 점심이나 가볍게 한 잔.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "정원",
+    "가벼운식사"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "mir",
+   "name": "MIR 미르식당 (Hotel the MIR)",
+   "category": "맛집",
+   "area": "Maribago",
+   "rating": 4.8,
+   "reviews": 96,
+   "hours": "07:30–04:00",
+   "price": "저렴",
+   "dist": {
+    "min": 2,
+    "km": 0.6,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=11004158952258882172",
+   "address": "Bagumbayan 1, Maribago",
+   "why": "한식 아침·해장. 07:30부터 열어서 아침 다이빙 나가기 전에 밥을 먹을 수 있다.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "한식",
+    "아침",
+    "해장"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "mercato-mactan",
+   "name": "Mercato de Mactan Food Park",
+   "category": "맛집",
+   "area": "Mactan",
+   "rating": 4.2,
+   "reviews": 365,
+   "hours": "화–일 16:00–24:00 (월 휴무)",
+   "price": "저렴",
+   "dist": {
+    "min": 8,
+    "km": 2.7,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=10907202227319421848",
+   "address": "Mactan, Lapu-Lapu",
+   "why": "여러 가게에서 골라 먹는 푸드파크. 도착 첫날 저녁에 쓰기 좋다.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "푸드파크",
+    "첫날"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "mactan-nite",
+   "name": "Mactan Nite Market",
+   "category": "맛집",
+   "area": "Mactan",
+   "rating": 3.6,
+   "reviews": 76,
+   "hours": "16:00–04:00 (토 휴무)",
+   "price": "저렴",
+   "dist": {
+    "min": 5,
+    "km": 1.4,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=12687025287956519119",
+   "address": "Mactan, Lapu-Lapu",
+   "why": "현지인 야시장. 위생과 소매치기는 각오하고 현금 소액만 들고 갈 것.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "야시장",
+    "현지"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "cafe-soom",
+   "name": "Cafe Soom",
+   "category": "카페",
+   "area": "Maribago",
+   "rating": 4.6,
+   "reviews": 379,
+   "hours": "08:00–24:00",
+   "price": "보통",
+   "dist": {
+    "min": 3,
+    "km": 1.1,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=15935212087278278108",
+   "address": "M.L. Quezon Hwy, Maribago",
+   "why": "M.L. Quezon 하이웨이. 자정까지 해서 저녁 식사 후 커피·디저트로 이어가기 좋다.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "디저트",
+    "늦게까지"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "point-roasters",
+   "name": "Cafe Point Roasters Cafe",
+   "category": "카페",
+   "area": "Maribago",
+   "rating": 4.5,
+   "reviews": 145,
+   "hours": "09:00–22:00",
+   "price": "저렴",
+   "dist": {
+    "min": 3,
+    "km": 0.7,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=3794885370803896437",
+   "address": "COAST CENTER, Maribago",
+   "why": "COAST CENTER 안. 원두를 직접 로스팅하는 동네 카페. 다이빙 후 책·노트북 작업하기 편하다.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "로스팅",
+    "작업"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "cafecaptain",
+   "name": "cafecaptain",
+   "category": "카페",
+   "area": "Maribago",
+   "rating": 4.8,
+   "reviews": 83,
+   "hours": "09:00–19:00 (일 휴무)",
+   "price": "저렴",
+   "dist": {
+    "min": 2,
+    "km": 0.6,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=1028097562390147136",
+   "address": "Maribago, Lapu-Lapu",
+   "why": "작은 동네 카페. 일요일은 문을 닫으니 12/6(일)에는 피할 것.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "조용",
+    "일휴무"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "savemore",
+   "name": "Savemore Market Maribago",
+   "category": "쇼핑",
+   "area": "Maribago",
+   "rating": 4.0,
+   "reviews": 1396,
+   "hours": "07:00–21:00",
+   "price": "",
+   "dist": {
+    "min": 3,
+    "km": 0.7,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=976387945633322670",
+   "address": "Maribago, Lapu-Lapu",
+   "why": "숙소에서 가장 가까운 슈퍼. 생수·이온음료·과일·세탁세제. 건물 안에 왓슨스(상비약·화장품)도 있다.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "슈퍼",
+    "상비약"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "island-central",
+   "name": "Island Central Mactan",
+   "category": "쇼핑",
+   "area": "MEPZ",
+   "rating": 4.1,
+   "reviews": 2525,
+   "hours": "09:00–21:00",
+   "price": "",
+   "dist": {
+    "min": 21,
+    "km": 8.8,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=7471609802495333182",
+   "address": "MEPZ, Lapu-Lapu",
+   "why": "MEPZ 안 대형몰. 슈퍼마켓·식당·수영용품 매장을 한 번에. 비 오는 날 오후 코스로 적당.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "몰",
+    "수영용품"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "gaisano",
+   "name": "Gaisano Mactan Island Mall",
+   "category": "쇼핑",
+   "area": "Mactan",
+   "rating": 3.9,
+   "reviews": 3396,
+   "hours": "09:00–20:00",
+   "price": "",
+   "dist": {
+    "min": 28,
+    "km": 11.2,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=8680491502370367989",
+   "address": "Mactan, Lapu-Lapu",
+   "why": "현지인 마트형 몰. 값이 싸고 물량이 많지만 시설은 오래됐다. 20시 마감 주의.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "마트",
+    "저렴"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "mango-bongbong",
+   "name": "Mango Bongbong Souvenir",
+   "category": "쇼핑",
+   "area": "Maribago",
+   "rating": 4.9,
+   "reviews": 238,
+   "hours": "09:00–23:00",
+   "price": "",
+   "dist": {
+    "min": 5,
+    "km": 1.2,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=12053212523834756455",
+   "address": "Maribago, Lapu-Lapu",
+   "why": "망고·건망고·기념품. 마리바고 안이라 마지막 날 밤에 들러 짐에 넣기 좋다.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "기념품",
+    "망고"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "aquaventure",
+   "name": "Aquaventure Whitetip Dive Supply – Mactan",
+   "category": "쇼핑",
+   "area": "Maribago",
+   "rating": 4.4,
+   "reviews": 28,
+   "hours": "09:00–18:00 (일 휴무)",
+   "price": "",
+   "dist": {
+    "min": 4,
+    "km": 1.2,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=7234486449595213086",
+   "address": "Bagumbayan 2, M.L. Quezon Hwy",
+   "why": "마스크·핀·소모품. 스트랩이나 버클이 끊어졌을 때.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "다이빙장비",
+    "부품",
+    "일휴무"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "ocean-dive-supply",
+   "name": "Ocean Dive Supply Philippines / Tech Asia – Mactan",
+   "category": "쇼핑",
+   "area": "Maribago",
+   "rating": 4.9,
+   "reviews": 9,
+   "hours": "09:00–19:00 (일 ~18:00)",
+   "price": "",
+   "dist": {
+    "min": 5,
+    "km": 1.3,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=1386216321731329888",
+   "address": "Maribago, Lapu-Lapu",
+   "why": "테크 장비까지 있는 공급점. O링·스트랩·실리콘 그리스 같은 급한 부품을 여기서 산다.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "다이빙장비",
+    "테크"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "ners-money",
+   "name": "Ner's Money Changer",
+   "category": "쇼핑",
+   "area": "Maribago",
+   "rating": 4.0,
+   "reviews": 5,
+   "hours": "08:00–23:00",
+   "price": "",
+   "dist": {
+    "min": 4,
+    "km": 1.2,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=11436810258885251412",
+   "address": "Maribago, Lapu-Lapu",
+   "why": "마리바고 환전소. 리조트에서 환전상을 불러 줬다는 후기도 있으니 프런트에 먼저 물어볼 것.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "환전"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "gold-moon-spa",
+   "name": "Gold Moon SPA",
+   "category": "마사지",
+   "area": "Agus Gamay",
+   "rating": 4.7,
+   "reviews": 1599,
+   "hours": "10:00–24:00",
+   "price": "",
+   "dist": {
+    "min": 5,
+    "km": 1.3,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=8609816388139364198",
+   "address": "Agus Gamay, Maribago",
+   "why": "큰 스파. 하루 3회 입수한 뒤 어깨·허리 풀기. 한국어 안내 페이지가 있다(cebugoldmoon.imweb.me).",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "스파",
+    "한국어"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  },
+  {
+   "id": "retreat-spa",
+   "name": "Retreat Spa Maribago",
+   "category": "마사지",
+   "area": "Maribago",
+   "rating": 4.7,
+   "reviews": 355,
+   "hours": "10:00–01:00",
+   "price": "",
+   "dist": {
+    "min": 4,
+    "km": 1.0,
+    "mode": "drive"
+   },
+   "maps": "https://maps.google.com/?cid=7849819092530341935",
+   "address": "Jinju Square, Maribago",
+   "why": "Jinju Square 2층. 새벽 1시까지 해서 저녁 식사 후에도 갈 수 있다.",
+   "phone": "",
+   "whatsapp": "",
+   "app": "",
+   "appLink": "",
+   "tags": [
+    "늦게까지",
+    "가까움"
+   ],
+   "source": "Google Maps 2026-11-26",
+   "addedBy": "pickle",
+   "addedAt": "2026-11-26"
+  }
+ ]
+}
